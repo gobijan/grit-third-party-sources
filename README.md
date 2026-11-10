@@ -28,7 +28,7 @@ The Project Symphonia Developers. The unchanged archives are at
 |---|---|
 | `symphonia-0.6.1-grit.1` | 0.1.1 to 0.1.12, and every later version until a newer tag is listed here |
 
-From Grit 0.1.13 on, the notices inside the app (**Help ▸ Acknowledgements**)
+In versions after 0.1.12, the notices inside the app (**Help ▸ Acknowledgements**)
 link to the tag a build was made from.
 
 ## Using these copies
